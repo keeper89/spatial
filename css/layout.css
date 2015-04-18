@@ -18,7 +18,7 @@
 /* Typos */
 .ba-container-center{
     width: 960px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
 }
 
 /* Text align */
@@ -62,10 +62,6 @@
 .ba-vertical-align-bottom {
     vertical-align: bottom;
 }
-.ba-container-center {
-    margin-left:auto;
-    margin-right:auto;
-}
 
 /* Absolute centering */
 .ba-relative {
@@ -89,7 +85,7 @@
     border-radius: 50%;
 }
 
-/* Grid */
+/* Grid layout  */
 .ba-grid {
     margin-left:-20px;
     *zoom: 1;
