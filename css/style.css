@@ -108,6 +108,9 @@ header.ba-major {
 .actions {
 	vertical-align: middle;
 }
+.actions ul {
+    display: block;
+}
 
 [class|="ba-button"] {
     display: block;
@@ -166,4 +169,15 @@ header.ba-major {
 }
 .ba-picture img {
     width: 100%;
+}
+
+/* Second banner */
+.ba-banner-second {
+    padding: 64px 0 32px 0;
+}
+.ba-banner-second h2 {
+    margin-bottom: 25px;
+}
+.ba-banner-second h2+p {
+    margin-top: -17px;
 }
